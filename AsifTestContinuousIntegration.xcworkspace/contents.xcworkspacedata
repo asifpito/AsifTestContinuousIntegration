@@ -7,15 +7,5 @@
       <FileRef
          location = "group:TestContinuous.xcodeproj">
       </FileRef>
-      <Group
-         location = "group:TestContinuousTests"
-         name = "TestContinuousTests">
-         <FileRef
-            location = "group:Info.plist">
-         </FileRef>
-         <FileRef
-            location = "group:TestContinuousTests.m">
-         </FileRef>
-      </Group>
    </Group>
 </Workspace>
