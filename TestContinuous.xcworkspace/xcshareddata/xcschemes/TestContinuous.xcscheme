@@ -17,7 +17,7 @@
                BlueprintIdentifier = "451BD1DD1AB7F6EF00533DF6"
                BuildableName = "TestContinuous.app"
                BlueprintName = "TestContinuous"
-               ReferencedContainer = "container:TestContinuous.xcodeproj">
+               ReferencedContainer = "container:TestContinuous/TestContinuous.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -35,7 +35,7 @@
             BlueprintIdentifier = "451BD1DD1AB7F6EF00533DF6"
             BuildableName = "TestContinuous.app"
             BlueprintName = "TestContinuous"
-            ReferencedContainer = "container:TestContinuous.xcodeproj">
+            ReferencedContainer = "container:TestContinuous/TestContinuous.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -54,7 +54,7 @@
             BlueprintIdentifier = "451BD1DD1AB7F6EF00533DF6"
             BuildableName = "TestContinuous.app"
             BlueprintName = "TestContinuous"
-            ReferencedContainer = "container:TestContinuous.xcodeproj">
+            ReferencedContainer = "container:TestContinuous/TestContinuous.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -72,7 +72,7 @@
             BlueprintIdentifier = "451BD1DD1AB7F6EF00533DF6"
             BuildableName = "TestContinuous.app"
             BlueprintName = "TestContinuous"
-            ReferencedContainer = "container:TestContinuous.xcodeproj">
+            ReferencedContainer = "container:TestContinuous/TestContinuous.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
